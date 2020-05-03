@@ -1,0 +1,16 @@
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\NoticiasAPI.deps.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\NoticiasAPI.runtimeconfig.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\NoticiasAPI.runtimeconfig.dev.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\bin\Debug\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.RazorAssemblyInfo.cs
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.AssemblyInfoInputs.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.AssemblyInfo.cs
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\NoticiasAPI\NoticiasAPI\obj\Debug\netcoreapp2.1\NoticiasAPI.csprojAssemblyReference.cache
